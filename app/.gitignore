@@ -1,0 +1,16 @@
+/build
+*.iml
+.gradle
+/local.properties
+/.idea
+.DS_Store
+/build
+/captures
+.externalNativeBuild
+.cxx
+
+# Firebase
+google-services.json
+
+# API keys
+cloudinary.properties
